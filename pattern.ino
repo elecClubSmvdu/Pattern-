@@ -1,3 +1,5 @@
+// Ravi Prakash, ECE, SMVDU
+// printing a pattern of LEDs
 int P1=3;
 int P2=4;
 int P3=8;
